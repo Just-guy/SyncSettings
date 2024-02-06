@@ -56,7 +56,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   sftp.enabled\"}]},{\"id\":\"userDataProfiles\",\"themeIcon\":{\"id\":\"defaul\
   tProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\":true,\"views\":[]}]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["json",true],["properties",true],["css",true],["javascript",true],["ignore",true],["shellscript",true],["dockercompose",true],["ini",true],["dockerfile",true],["php",true],["plaintext",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["properties",true],["css",true],["javascript",true],["ignore",true],["shellscript",true],["dockercompose",true],["ini",true],["dockerfile",true],["php",true],["yaml",true],["jsonc",true],["plaintext",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
