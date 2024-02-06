@@ -1,0 +1,92 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+	{
+		"key": "shift+alt+g",
+		"command": "es6-css-minify.minifySelection"
+	},
+	{
+		"key": "ctrl+alt+z",
+		"command": "autoprefixer.execute"
+	},
+	{
+		"key": "shift+left",
+		"command": "editor.action.moveCarretLeftAction"
+	},
+	{
+		"key": "shift+right",
+		"command": "editor.action.moveCarretRightAction"
+	},
+	{
+		"key": "ctrl+shift+oem_2",
+		"command": "intelephense.cancel.indexing"
+	},
+	{
+		"key": "ctrl+shift+oem_period",
+		"command": "intelephense.enter.key"
+	},
+	{
+		"key": "ctrl+shift+oem_comma",
+		"command": "intelephense.index.workspace"
+	},
+	{
+		"key": "alt+x",
+		"command": "editor.action.toggleWordWrap"
+	},
+	{
+		"key": "alt+z",
+		"command": "-editor.action.toggleWordWrap"
+	},
+	{
+		"key": "shift+alt+k",
+		"command": "editor.action.transformToUppercase"
+	},
+	{
+		"key": "shift+alt+l",
+		"command": "editor.action.transformToLowercase"
+	},
+	{
+		"key": "ctrl+alt+r",
+		"command": "sftp.remoteExplorer.refresh"
+	},
+	{
+		"key": "ctrl+alt+u",
+		"command": "-sftp.upload.changedFiles",
+		"when": "sftp.enabled"
+	},
+	{
+		"key": "ctrl+alt+oem_7",
+		"command": "sftp.download.activeFile"
+	},
+	{
+		"key": "alt+f",
+		"command": "sftp.upload.activeFile"
+	},
+	{
+		"key": "alt+s",
+		"command": "workbench.action.files.save"
+	},
+	{
+		"key": "ctrl+s",
+		"command": "-workbench.action.files.save"
+	},
+	{
+		"key": "ctrl+s",
+		"command": "editor.action.insertSnippet",
+		"when": "editorHasSelection && !editorReadonly"
+	},
+	{
+		"key": "alt+s",
+		"command": "-editor.action.insertSnippet",
+		"when": "editorHasSelection && !editorReadonly"
+	},
+	{
+		"key": "shift+alt+oem_7",
+		"command": "extension.CleanCSS",
+		"when": "editorTextFocus && editorLangId == 'css'"
+	},
+	{
+		"key": "shift+alt+f",
+		"command": "-extension.CleanCSS",
+		"when": "editorTextFocus && editorLangId == 'css'"
+	}
+]

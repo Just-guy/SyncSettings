@@ -1,0 +1,98 @@
+{
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.tabSize": 3,
+	"editor.insertSpaces": false,
+	"editor.mouseWheelZoom": true,
+	"explorer.confirmDelete": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"explorer.confirmDragAndDrop": false,
+	"editor.renderWhitespace": "all",
+	"editor.comments.insertSpace": false,
+	"editor.detectIndentation": false,
+	"editor.hover.enabled": false,
+	"php.executablePath": "E:/OSPanel/modules/php/PHP_7.4/php.exe",
+	"sync.gist": "",
+	"workbench.iconTheme": "material-icon-theme",
+	"todo-tree.tree.showScanModeButton": false,
+	"todo-tree.highlights.enabled": false,
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"autoprefixer.options": {},
+	"terminal.external.linuxExec": "C:\\WINDOWS\\System32\\cmd.exe",
+	"terminal.external.windowsExec": "",
+	"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+	"launch": {
+		"configurations": []
+	},
+	"php.suggest.basic": false,
+	"[php]": {
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+	},
+	"security.workspace.trust.untrustedFiles": "open",
+	"bracketPairColorizer.depreciation-notice": false,
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"editor.unicodeHighlight.allowedLocales": {
+		"_os": true,
+		"_vscode": true,
+		"ru": true
+	},
+	"workbench.editorAssociations": {
+		"*.db": "default",
+		"*.woff2": "default"
+	},
+	"editor.guides.bracketPairs": "active",
+	"commentTranslate.targetLanguage": "ru",
+	"commentTranslate.ignore": [
+		{
+			"languageId": "javascript,typescript,javascriptreact,typescriptreact,php",
+			"regular": "[\\*\\s]+"
+		},
+		{
+			"languageId": "dart",
+			"regular": "[\\s|/]+"
+		}
+	],
+	"commentTranslate.hover.string": true,
+	"commentTranslate.hover.variable": true,
+	"git.suggestSmartCommit": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"update.mode": "manual",
+	"git.path": "/usr/local/bin/git",
+	"terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+	"redhat.telemetry.enabled": true,
+	"git.ignoreMissingGitWarning": true,
+	"workbench.settings.applyToAllProfiles": [
+		"files.insertFinalNewline"
+	],
+	"files.insertFinalNewline": true,
+	"git.openRepositoryInParentFolders": "always",
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"source": "PowerShell",
+			"icon": "terminal-powershell"
+		},
+		"Command Prompt": {
+			"path": [
+				"${env:windir}\\Sysnative\\cmd.exe",
+				"${env:windir}\\System32\\cmd.exe"
+			],
+			"args": [],
+			"icon": "terminal-cmd"
+		},
+		"Git Bash": {
+			"source": "Git Bash"
+		},
+		"Ubuntu (WSL)": {
+			"path": "C:\\Windows\\System32\\wsl.exe",
+			"args": [
+				"-d",
+				"Ubuntu"
+			]
+		}
+	},
+	"window.zoomLevel": -1,
+	"sync.forceUpload": false,
+	//"php.debug.executablePath": "E:/OSPanel/modules/php/PHP_8.1/php.exe",
+}

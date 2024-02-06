@@ -1,0 +1,56 @@
+disabled: []
+enabled:
+  - id: alefragnani.project-manager
+    uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
+  - id: bmewburn.vscode-intelephense-client
+    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
+  - id: DiegoMolina.css-minify
+    uuid: c06c54a1-b341-432a-8f19-fad4cb68f4bb
+  - id: diz.ecsstractor-port
+    uuid: 4cddf035-c6d4-49a5-961e-dbc89ebd1e58
+  - id: donjayamanne.jquerysnippets
+    uuid: 99c12a52-ff68-4e9d-a975-a67556fee2f5
+  - id: dqisme.sync-scroll
+    uuid: 2538fb3a-730c-4259-9044-7cf831516769
+  - id: formulahendry.auto-close-tag
+    uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
+  - id: formulahendry.auto-complete-tag
+    uuid: 366a9f01-2d1b-48b9-b7df-014ff8dea46b
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: Gruntfuggly.todo-tree
+    uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
+  - id: huizhou.githd
+    uuid: e4e21a5c-a882-4d7d-b8d8-cfe05b1436c6
+  - id: intellsmi.comment-translate
+    uuid: 85668beb-15e7-48c4-86a1-6a02f3133292
+  - id: jeanp413.open-remote-ssh
+    uuid: 9fc16cea-08e2-4ae5-bf75-224004d722ff
+  - id: kisstkondoros.vscode-gutter-preview
+    uuid: eedfd044-d5ac-4389-973d-3ac1fdb98ad5
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: mrmlnc.vscode-autoprefixer
+    uuid: 70159dd5-3ca5-4ccc-a7ae-011a662e08c2
+  - id: mrmlnc.vscode-scss
+    uuid: beb68b20-7c55-471c-9b63-3486f9423566
+  - id: Natizyskunk.sftp
+    uuid: fe74bfaf-4260-454f-981c-6541d1d31822
+  - id: olback.es6-css-minify
+    uuid: f92f3867-b874-416b-82b5-f806f729b518
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: pucelle.vscode-css-navigation
+    uuid: f97a6398-d553-44cf-9ebf-54e8dbf8d3fb
+  - id: redhat.vscode-xml
+    uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: sibiraj-s.vscode-scss-formatter
+    uuid: 01708053-6fab-403f-9787-9d5f3d8f7d6a
+  - id: Sumanai.bitrix-snippet
+    uuid: 828a3b82-4a03-4edf-b752-1712a9297f20
+  - id: xdebug.php-debug
+    uuid: 044b4b31-2969-4af3-895d-855433b8b46d
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
