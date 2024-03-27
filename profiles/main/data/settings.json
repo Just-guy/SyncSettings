@@ -92,7 +92,7 @@
 			]
 		}
 	},
-	"window.zoomLevel": -1,
 	"sync.forceUpload": false,
+	"window.zoomLevel": -1,
 	//"php.debug.executablePath": "E:/OSPanel/modules/php/PHP_8.1/php.exe",
 }

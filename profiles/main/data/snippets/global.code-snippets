@@ -89,8 +89,7 @@
 		"prefix": "admin",
 		"body": [
 			"<?",
-			"global $USER;",
-			"if ($USER->IsAdmin()) {",
+			"if (\\Bitrix\\Main\\Engine\\CurrentUser::get()->isAdmin()) {",
 			"$1",
 			"}",
 			"?>"
