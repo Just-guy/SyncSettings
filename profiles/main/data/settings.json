@@ -57,7 +57,6 @@
 	"commentTranslate.hover.string": true,
 	"commentTranslate.hover.variable": true,
 	"git.suggestSmartCommit": false,
-	"diffEditor.ignoreTrimWhitespace": false,
 	"update.mode": "manual",
 	"git.path": "/usr/local/bin/git",
 	"terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
@@ -94,5 +93,21 @@
 	},
 	"sync.forceUpload": false,
 	"window.zoomLevel": -1,
+	"MinifyAll.terserMinifyOptions": {
+		"mangle": true,
+		"compress": {
+			"drop_console": true,
+			"dead_code": false,
+			"keep_fnames": false,
+			"keep_classnames": false
+		}
+	},
+	"MinifyAll.PrefixOfNewMinifiedFiles": ".min",
+	"search.useIgnoreFiles": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"diffEditor.hideUnchangedRegions.enabled": true,
+	"scm.diffDecorationsIgnoreTrimWhitespace": "true",
+	"editor.unicodeHighlight.nonBasicASCII": false,
+	"workbench.colorTheme": "Aura Soft Dark",
 	//"php.debug.executablePath": "E:/OSPanel/modules/php/PHP_8.1/php.exe",
 }
